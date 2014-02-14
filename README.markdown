@@ -1,1 +1,1 @@
-NOTE: add a specific crypto package to use. 
+### Obsoleted by https://github.com/oortcloud/meteor-crypto-base
